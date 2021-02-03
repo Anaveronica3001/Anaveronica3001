@@ -1,9 +1,5 @@
-### Hi there 👋
+Me chamo Ana Verônica. Sou Arquiteta e Urbanista, estou mudando de área para o incrível mundo da Tecnologia! Realizando Bootcamp Full Stack da Generation
 
-<!--
-**Anaveronica3001/Anaveronica3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
