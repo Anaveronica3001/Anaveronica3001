@@ -1,4 +1,4 @@
-Me chamo Ana Verônica. Sou Arquiteta e Urbanista, estou mudando de área para o incrível mundo da Tecnologia! Realizando Bootcamp Full Stack da Generation
+Sou Arquiteta e Urbanista, estou realizando transição de carreira para o incrível mundo da Tecnologia! Realizando Bootcamp Full Stack da Generation
 
 <!--
 - 🔭 I’m currently working on ...
