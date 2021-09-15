@@ -1,4 +1,4 @@
-Sou Arquiteta e Urbanista, estou realizando transição de carreira para o incrível mundo da Tecnologia! Formada no Bootcamp Full Stack da Generation
+Sou Arquiteta e Urbanista, estou realizando transição de carreira para o incrível mundo da Tecnologia! Formada em Dev Java/Phithon Full Stack| MySQL| Google Cloud
 
 <!--
 - 🔭 I’m currently working on ...
